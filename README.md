@@ -1,4 +1,4 @@
-# Rating app mandatory for the Android App course
+# Course rating app mandatory for the Android App course
 
 ## How to use
 > To use this app, you will first get introduced to a login screen. Here you need to type a username, and a password. 
