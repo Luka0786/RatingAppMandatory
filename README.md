@@ -12,7 +12,7 @@
 ## What can this app do
 > In this app you can login, where after you are able to rate courses at KEA. For every rating there is **six** questions, that need to be rated from the scale **1-100**. 
 
-> After you rated the course, the APP will then send a email to the teacher *currently myself*, which will contain which course that just was rated, and the overall rating. 
+> After you rated the course, the APP will then send a email to the teacher *"currently myself"*, which will contain which course that just was rated, and the overall rating. 
 
 > After sending the email, you will get redirected back to the menu, where you can choose a new course to rate. If you feel like you rated the course wrong, you are able to redo the rating, and send a new email with the correct data. After you rated the course, a text will appear next to the rated course with a ranking from:
 
