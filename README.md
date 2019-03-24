@@ -24,3 +24,7 @@
 > - *X*
 
 > Which all depends on the overall rating, you rated the course. 
+
+> Hope you like my app 👍
+
+> - *Made by the student: Lukas Lundø Nielsen*
