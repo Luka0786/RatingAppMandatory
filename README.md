@@ -25,6 +25,8 @@
 
 > Which all depends on the overall rating, you rated the course. 
 
+> The app is made on the device: **Nexus 5X**
+
 > Hope you like my app 👍
 
 > - *Made by the student: Lukas Lundø Nielsen*
